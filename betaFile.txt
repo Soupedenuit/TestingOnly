@@ -1,0 +1,2 @@
+Line 1 added in betaBranch
+Line 2 added in betaBranch
